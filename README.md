@@ -108,7 +108,7 @@ The following visualizations were created:
 ## 📁 Project Structure
 
 ```text
-Airbnb-NYC-Data-Cleaning-EDA/
+Cleaning_Data_Project/
 │
 ├── data.csv
 ├── cleaned_data.csv
